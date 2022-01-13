@@ -23,6 +23,11 @@ public class Student {
         return 0;
     }*/
 
+    public void f2(float a)
+    {
+        //
+    }
+
     public Student(String name) {
         this.name = name;
     }
