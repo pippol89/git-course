@@ -25,7 +25,7 @@ public class Student {
 
     public void f2(float a)
     {
-        //
+        // добавили некоторый код
     }
 
     public Student(String name) {
