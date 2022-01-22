@@ -33,7 +33,7 @@ public class Student {
     public void f3_new(float a)
     {
         // добавили некоторый код
-        // новый код 12345
+        // новый код 6789
     }
 
     public Student(String name) {
