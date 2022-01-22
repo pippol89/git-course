@@ -23,10 +23,11 @@ public class Student {
         return 0;
     }*/
 
-    public void _f2(float a)
+    public void f2(float a)
     {
         // добавили некоторый код
         // некоторые новые правки
+        // внесли некоторые правки и переименовали
     }
 
     public Student(String name) {
