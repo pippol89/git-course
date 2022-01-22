@@ -30,6 +30,11 @@ public class Student {
         // внесли некоторые правки и переименовали
     }
 
+    public void f3_new(float a)
+    {
+        // добавили некоторый код
+    }
+
     public Student(String name) {
         this.name = name;
     }
