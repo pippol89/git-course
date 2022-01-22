@@ -23,9 +23,10 @@ public class Student {
         return 0;
     }*/
 
-    public void f2(float a)
+    public void f2_bug_fixed(float a)
     {
         // добавили некоторый код
+        // внесли некоторые правки и переименовали
     }
 
     public Student(String name) {
